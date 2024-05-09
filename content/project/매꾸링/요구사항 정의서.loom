@@ -1,0 +1,562 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "1886adba-e19b-49f0-98a3-0facf414298b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "57px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "No",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "c26fad42-c3af-48cd-bd3d-d7afff8d8d91",
+            "content": "ALL-001",
+            "color": "green"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "5904d486-c3c2-4aab-ac53-6d5742f09ee7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "구분",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "cf497c6e-cb5a-4145-8197-322b47f4bd5c",
+            "content": "관리자",
+            "color": "gray"
+          },
+          {
+            "id": "91ec17b7-ba03-4408-8521-d0abc6e1bce2",
+            "content": "직원",
+            "color": "green"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "2f9569a7-b1e1-48cc-afa8-6b1e0b943634",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "119px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "요구사항 ID",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "65a1d0fe-f73d-459b-abc1-3a80e69b5315",
+            "content": "REQ_ALL_001",
+            "color": "pink"
+          },
+          {
+            "id": "9eb767b9-0061-4181-aa43-29a8cd87a7a0",
+            "content": "ALL_001",
+            "color": "gray"
+          },
+          {
+            "id": "219bf87f-7095-42fe-9e7f-84f300ccc52e",
+            "content": "ALL_002",
+            "color": "orange"
+          },
+          {
+            "id": "fbf0ed97-6a05-429e-b655-3d8f45530a3c",
+            "content": "ALL_003",
+            "color": "blue"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "5e265c3f-0819-4275-aeb1-cdea7256cc91",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "122px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "요구사항 명",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "fa656645-7ca8-4fc0-b6d9-ac65e860c659",
+            "content": "회원가입",
+            "color": "green"
+          },
+          {
+            "id": "63cf1ced-81c7-4fcb-a001-cb2c0fd50ea1",
+            "content": "로그인",
+            "color": "light gray"
+          },
+          {
+            "id": "fafce504-07b3-4699-8f04-cc9a9566bd0c",
+            "content": "인증",
+            "color": "light gray"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "621c9dfe-37b2-4f01-86db-f4103671a977",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "78px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "기능 ID",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "70a6cd98-e500-4fc1-b57e-615930c2b52d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "109px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "기능명",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "d443cbf5-776b-4675-8908-859e91439a55",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "719px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "기능 설명",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "76ca8f37-b5de-48ff-95a0-3b03ae938046",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "완료",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "a6cf1640-c3e9-463c-93c9-244bce9a1fa4",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-03-28T05:22:56.368Z",
+        "lastEditedDateTime": "2024-03-28T06:45:38.354Z",
+        "cells": [
+          {
+            "id": "8c74046f-326b-4ff3-b3c6-ed8e3231bd49",
+            "columnId": "1886adba-e19b-49f0-98a3-0facf414298b",
+            "value": 1,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "40e8d736-b8e1-4e8d-b171-8da59507415b",
+            "columnId": "5904d486-c3c2-4aab-ac53-6d5742f09ee7",
+            "tagIds": [
+              "cf497c6e-cb5a-4145-8197-322b47f4bd5c",
+              "91ec17b7-ba03-4408-8521-d0abc6e1bce2"
+            ],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "06c3a02e-3d13-46fb-a74c-9df3a7a1dcc0",
+            "columnId": "2f9569a7-b1e1-48cc-afa8-6b1e0b943634",
+            "tagId": "9eb767b9-0061-4181-aa43-29a8cd87a7a0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "19a696ae-f48f-4f64-bcdf-7ddc94bb0c89",
+            "columnId": "5e265c3f-0819-4275-aeb1-cdea7256cc91",
+            "tagId": "fa656645-7ca8-4fc0-b6d9-ac65e860c659",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3afb7811-d47a-444f-8163-c391d7209bd6",
+            "columnId": "621c9dfe-37b2-4f01-86db-f4103671a977",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2447231a-9973-44d9-8fe4-967c62ccb299",
+            "columnId": "70a6cd98-e500-4fc1-b57e-615930c2b52d",
+            "content": "소셜 아이디로 회원가입 하기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b3ce6062-186b-4be1-a6d7-94599121f56e",
+            "columnId": "d443cbf5-776b-4675-8908-859e91439a55",
+            "content": "- 버튼을 활용하여 카카오, 네이버, 라인, 구글 인증을 통해 회원가입을 할 수 있도록 함",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7fa5d058-d5c2-4414-b8ae-137869304ee1",
+            "columnId": "76ca8f37-b5de-48ff-95a0-3b03ae938046",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f13f2973-b01f-4576-aab3-9972f7a5a5a2",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-03-28T06:29:03.247Z",
+        "lastEditedDateTime": "2024-03-28T06:48:25.941Z",
+        "cells": [
+          {
+            "id": "9e60df99-087d-41a5-a4e2-3408fbde07e4",
+            "columnId": "1886adba-e19b-49f0-98a3-0facf414298b",
+            "value": 2,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c1966747-c01a-44bf-8a42-905700349f4e",
+            "columnId": "5904d486-c3c2-4aab-ac53-6d5742f09ee7",
+            "tagIds": [
+              "cf497c6e-cb5a-4145-8197-322b47f4bd5c",
+              "91ec17b7-ba03-4408-8521-d0abc6e1bce2"
+            ],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1c3631f9-458a-4277-ac02-5006c48bba43",
+            "columnId": "2f9569a7-b1e1-48cc-afa8-6b1e0b943634",
+            "tagId": "9eb767b9-0061-4181-aa43-29a8cd87a7a0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3ed9ab90-0b37-45e2-85b4-e7e432f5e72b",
+            "columnId": "5e265c3f-0819-4275-aeb1-cdea7256cc91",
+            "tagId": "fa656645-7ca8-4fc0-b6d9-ac65e860c659",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4ed5ae9b-6719-4b10-b4e9-a4db07e49659",
+            "columnId": "621c9dfe-37b2-4f01-86db-f4103671a977",
+            "content": "2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "19510817-2527-47e8-beb4-4815b50ef8f2",
+            "columnId": "70a6cd98-e500-4fc1-b57e-615930c2b52d",
+            "content": "휴대폰 번호 인증",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4cdc2b15-9e15-4864-a5af-01926ddff392",
+            "columnId": "d443cbf5-776b-4675-8908-859e91439a55",
+            "content": "- 문자 메시지를 통해 소유자를 확인한다.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4bb3059e-8731-4b9b-a9ed-87ea2a71ac3f",
+            "columnId": "76ca8f37-b5de-48ff-95a0-3b03ae938046",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "67d0a627-fd0c-4569-a60d-b03ab27bffe1",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-03-28T06:36:42.520Z",
+        "lastEditedDateTime": "2024-03-28T07:34:44.876Z",
+        "cells": [
+          {
+            "id": "8913436f-a713-4825-9a3e-b2a542036bd5",
+            "columnId": "1886adba-e19b-49f0-98a3-0facf414298b",
+            "value": 3,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5918c1a2-f4fe-4287-ad8c-c1be56aa5c1c",
+            "columnId": "5904d486-c3c2-4aab-ac53-6d5742f09ee7",
+            "tagIds": [
+              "cf497c6e-cb5a-4145-8197-322b47f4bd5c",
+              "91ec17b7-ba03-4408-8521-d0abc6e1bce2"
+            ],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dd478b75-2a3b-4e8f-af20-4e6bdfe77d96",
+            "columnId": "2f9569a7-b1e1-48cc-afa8-6b1e0b943634",
+            "tagId": "9eb767b9-0061-4181-aa43-29a8cd87a7a0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1a0fab3b-957d-4c6e-81ad-31891842d97c",
+            "columnId": "5e265c3f-0819-4275-aeb1-cdea7256cc91",
+            "tagId": "fa656645-7ca8-4fc0-b6d9-ac65e860c659",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4ad115f5-d8e1-4e23-9622-a359efa5fd18",
+            "columnId": "621c9dfe-37b2-4f01-86db-f4103671a977",
+            "content": "3",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ae76805d-43c4-4192-b44e-160ac55cc818",
+            "columnId": "70a6cd98-e500-4fc1-b57e-615930c2b52d",
+            "content": "기본 회원 정보 등록",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f9a2793a-1f62-4a2a-9b26-52f17c7a6757",
+            "columnId": "d443cbf5-776b-4675-8908-859e91439a55",
+            "content": "1. 이름 설정\n2. 닉네임 설정\n",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ac03b657-30e8-4f53-8f69-8f5cfa4a317e",
+            "columnId": "76ca8f37-b5de-48ff-95a0-3b03ae938046",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e61fc372-a65b-4b91-91cb-eea9b2547223",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-03-28T06:51:30.423Z",
+        "lastEditedDateTime": "2024-03-28T06:53:39.050Z",
+        "cells": [
+          {
+            "id": "3dce44f2-2d40-435d-b921-b7d016aaf5cf",
+            "columnId": "1886adba-e19b-49f0-98a3-0facf414298b",
+            "value": 4,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d64824da-6daf-41e6-8118-f1333663273d",
+            "columnId": "5904d486-c3c2-4aab-ac53-6d5742f09ee7",
+            "tagIds": [
+              "cf497c6e-cb5a-4145-8197-322b47f4bd5c",
+              "91ec17b7-ba03-4408-8521-d0abc6e1bce2"
+            ],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ab14f7c5-b754-4c89-a240-44dbdb371cb4",
+            "columnId": "2f9569a7-b1e1-48cc-afa8-6b1e0b943634",
+            "tagId": "219bf87f-7095-42fe-9e7f-84f300ccc52e",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d30e498a-e76f-4a9a-bf2f-edf1491395ff",
+            "columnId": "5e265c3f-0819-4275-aeb1-cdea7256cc91",
+            "tagId": "63cf1ced-81c7-4fcb-a001-cb2c0fd50ea1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3d3e0ca6-8f44-4ac3-bfbf-e567bbe151ed",
+            "columnId": "621c9dfe-37b2-4f01-86db-f4103671a977",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "693e41c0-557d-465c-9585-c7ac76054065",
+            "columnId": "70a6cd98-e500-4fc1-b57e-615930c2b52d",
+            "content": "소셜 아이디로 로그인 하기",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7b6752ff-8c53-4c45-95ed-92b5e88799e4",
+            "columnId": "d443cbf5-776b-4675-8908-859e91439a55",
+            "content": "- 회원가입을 진행했던 소셜 서비스를 활용해 로그인 할 수 있도록 함.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e72f13aa-ea59-41a0-a2ba-272f949dbbcc",
+            "columnId": "76ca8f37-b5de-48ff-95a0-3b03ae938046",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0be6848a-1af3-4bfc-9db0-a1c0a4a2e1bc",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-03-28T06:53:48.758Z",
+        "lastEditedDateTime": "2024-03-31T08:32:23.828Z",
+        "cells": [
+          {
+            "id": "aa070b9d-d674-42ec-aedb-32ad67b92d39",
+            "columnId": "1886adba-e19b-49f0-98a3-0facf414298b",
+            "value": 5,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8d3b7604-9774-4b5b-badf-132818828c53",
+            "columnId": "5904d486-c3c2-4aab-ac53-6d5742f09ee7",
+            "tagIds": [
+              "cf497c6e-cb5a-4145-8197-322b47f4bd5c",
+              "91ec17b7-ba03-4408-8521-d0abc6e1bce2"
+            ],
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2b4165b3-5e8e-4fa2-a591-a3cf436e8c00",
+            "columnId": "2f9569a7-b1e1-48cc-afa8-6b1e0b943634",
+            "tagId": "fbf0ed97-6a05-429e-b655-3d8f45530a3c",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a4ec5dc8-30c9-4fd6-a842-5fe8cefeb2c8",
+            "columnId": "5e265c3f-0819-4275-aeb1-cdea7256cc91",
+            "tagId": "63cf1ced-81c7-4fcb-a001-cb2c0fd50ea1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ce05f665-d82c-403b-ac75-02454a384e79",
+            "columnId": "621c9dfe-37b2-4f01-86db-f4103671a977",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "705bff82-7486-4e09-9a96-630f15f443fb",
+            "columnId": "70a6cd98-e500-4fc1-b57e-615930c2b52d",
+            "content": "{",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "13e51d7a-ae5c-43c3-aa4a-e01126407446",
+            "columnId": "d443cbf5-776b-4675-8908-859e91439a55",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6536cdd0-a277-49f4-a33e-7c0dd7de4fa0",
+            "columnId": "76ca8f37-b5de-48ff-95a0-3b03ae938046",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.12"
+}
