@@ -1,10 +1,13 @@
 ---
 id: index
-aliases: []
+aliases:
+  - Index
 tags: []
 date: "2024-05-09"
 description: ""
-draft: true
+draft: False
 ---
+
+# Index
 
 
