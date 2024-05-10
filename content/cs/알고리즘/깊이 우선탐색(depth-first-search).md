@@ -4,7 +4,8 @@ aliases: []
 tags: []
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
+title: 깊이 우선탐색(depth-first-search)
 ---
 
 #dfs #algorithm #cs #search-algorithm #blind-search

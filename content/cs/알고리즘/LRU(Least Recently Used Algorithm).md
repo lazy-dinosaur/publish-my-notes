@@ -4,7 +4,8 @@ aliases: []
 tags: []
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
+title: LRU(Least Recently Used Algorithm)
 ---
 
 #page-replacement-algorithm #algorithm 

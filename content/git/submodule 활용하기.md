@@ -6,7 +6,8 @@ aliases:
 tags: []
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
+title: submodule 활용하기
 ---
 
 # 다른 git 저장소를 내 프로젝트에 포함시키자!!

@@ -4,7 +4,8 @@ aliases: []
 tags: []
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
+title: bundler 와 build tool 을 사용하는 이유
 ---
 
 #javascript #bundler #build-tool

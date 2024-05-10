@@ -9,6 +9,7 @@ tags:
 date: "2024-05-08"
 description: ""
 draft: false
+title: H-Index
 ---
 ## 문제 설명
 H-Index 는 과학자의 생산성과 영향력을 나타내는 지표입니다. 어느 과학자의 H-index 를 나타내는 값인 h를 구하려고 합니다. 위키백과에 따르면, H-Index는 다음과 같이 구합니다.

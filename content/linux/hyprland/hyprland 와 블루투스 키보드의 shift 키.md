@@ -13,6 +13,7 @@ tags:
 date: "2024-05-08"
 description: ""
 draft: false
+title: hyprland 와 shift 키
 ---
 # 문제의 발생
 

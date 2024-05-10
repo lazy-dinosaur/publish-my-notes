@@ -4,7 +4,8 @@ aliases: []
 tags: []
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
+title: 자료구조(data-structure)
 ---
 
 #cs #data-structure

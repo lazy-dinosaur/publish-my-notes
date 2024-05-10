@@ -5,7 +5,8 @@ aliases:
 tags: []
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
+title: neovim 과 한글 문제 hyprland 에서 해결하기
 ---
 
 # 한글과 neovim

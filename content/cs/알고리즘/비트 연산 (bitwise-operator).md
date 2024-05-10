@@ -1,10 +1,13 @@
 ---
 id: 비트 연산 (bitwise-operator)
 aliases: []
-tags: []
+tags:
+  - cs
+  - 정의
+  - algorithm
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
 title: 비트 연산 (bitwise-operator)
 ---
 > 비트(bit) 단위로 논리 연산을 할 때 사용하는 연산자.

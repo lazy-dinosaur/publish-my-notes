@@ -1,6 +1,8 @@
 ---
 id: 이진탐색(binary-search)
-aliases: []
+aliases:
+  - 이진탐색
+  - binary-search
 tags:
   - binary-search
   - search-algorithm
@@ -8,6 +10,7 @@ tags:
 date: "2024-05-08"
 description: ""
 draft: false
+title: 이진탐색(binary-search)
 ---
 
 ## 정의

@@ -4,7 +4,8 @@ aliases: []
 tags: []
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
+title: ServerAction 의 이점
 ---
 
 #nextjs #javascript #framework

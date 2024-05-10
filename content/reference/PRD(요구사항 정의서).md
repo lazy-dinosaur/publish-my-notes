@@ -4,7 +4,8 @@ aliases: []
 tags: []
 date: "2024-05-08"
 description: ""
-draft: false
+draft: true
+title: PRD(요구사항 정의서)
 ---
 
 > [!summary] 정의 
